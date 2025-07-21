@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OVH Media Offload 1.0.0\n"
+"POT-Creation-Date: 2025-07-21 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sohaib Boukraa <email@sohaibboukraa.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WordPress POT Generator\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ovh-media-offload.php:50
+msgid "OVH Media Offload Settings"
+msgstr ""
+
+#: ovh-media-offload.php:51
+msgid "OVH Media Offload"
+msgstr ""
+
+#: ovh-media-offload.php:59
+msgid "Configuration generated! Please add the following to your wp-config.php file:"
+msgstr ""
+
+#: ovh-media-offload.php:75
+msgid "Plugin Information"
+msgstr ""
+
+#: ovh-media-offload.php:76
+msgid "automatically uploads your WordPress media files to OVH Object Storage (S3-compatible) and serves them from there, reducing server load and improving performance."
+msgstr ""
+
+#: ovh-media-offload.php:78
+msgid "Features:"
+msgstr ""
+
+#: ovh-media-offload.php:80
+msgid "Automatic upload of media files to OVH Object Storage"
+msgstr ""
+
+#: ovh-media-offload.php:81
+msgid "Replaces local URLs with S3 URLs"
+msgstr ""
+
+#: ovh-media-offload.php:82
+msgid "Handles multiple image sizes"
+msgstr ""
+
+#: ovh-media-offload.php:83
+msgid "Automatic deletion from S3 when attachments are deleted"
+msgstr ""
+
+#: ovh-media-offload.php:88
+msgid "Configuration Status"
+msgstr ""
+
+#: ovh-media-offload.php:91
+msgid "All configurations are properly set! Your plugin is ready to use."
+msgstr ""
+
+#: ovh-media-offload.php:96
+msgid "S3 Endpoint"
+msgstr ""
+
+#: ovh-media-offload.php:97 ovh-media-offload.php:101 ovh-media-offload.php:105 ovh-media-offload.php:109 ovh-media-offload.php:113
+msgid "Not set"
+msgstr ""
+
+#: ovh-media-offload.php:100
+msgid "S3 Region"
+msgstr ""
+
+#: ovh-media-offload.php:104
+msgid "S3 Bucket"
+msgstr ""
+
+#: ovh-media-offload.php:108
+msgid "S3 Access Key"
+msgstr ""
+
+#: ovh-media-offload.php:109 ovh-media-offload.php:113
+msgid "Configured"
+msgstr ""
+
+#: ovh-media-offload.php:112
+msgid "S3 Secret Key"
+msgstr ""
+
+#: ovh-media-offload.php:118
+msgid "Configuration Required! Please configure all S3 settings before using the plugin."
+msgstr ""
+
+#: ovh-media-offload.php:121
+msgid "Missing configurations:"
+msgstr ""
+
+#: ovh-media-offload.php:130
+msgid "S3 Configuration"
+msgstr ""
+
+#: ovh-media-offload.php:131
+msgid "Fill in your OVH Object Storage credentials below to generate the configuration code for your wp-config.php file."
+msgstr ""
+
+#: ovh-media-offload.php:142
+msgid "Example: https://s3.gra.cloud.ovh.net"
+msgstr ""
+
+#: ovh-media-offload.php:151
+msgid "Example: gra"
+msgstr ""
+
+#: ovh-media-offload.php:158
+msgid "S3 Bucket Name"
+msgstr ""
+
+#: ovh-media-offload.php:161
+msgid "Your OVH Object Storage bucket name"
+msgstr ""
+
+#: ovh-media-offload.php:168
+msgid "Access Key ID"
+msgstr ""
+
+#: ovh-media-offload.php:171
+msgid "Your OVH S3 access key"
+msgstr ""
+
+#: ovh-media-offload.php:178
+msgid "Secret Access Key"
+msgstr ""
+
+#: ovh-media-offload.php:181
+msgid "Your OVH S3 secret key"
+msgstr ""
+
+#: ovh-media-offload.php:185
+msgid "Generate Configuration"
+msgstr ""
+
+#: ovh-media-offload.php:191
+msgid "How to Configure"
+msgstr ""
+
+#: ovh-media-offload.php:193
+msgid "Fill in the form above with your OVH Object Storage credentials"
+msgstr ""
+
+#: ovh-media-offload.php:194
+msgid "Click \"Generate Configuration\" to get the configuration code"
+msgstr ""
+
+#: ovh-media-offload.php:195
+msgid "Copy the generated code and add it to your wp-config.php file before the line"
+msgstr ""
+
+#: ovh-media-offload.php:196
+msgid "Save the wp-config.php file"
+msgstr ""
+
+#: ovh-media-offload.php:197
+msgid "Refresh this page to verify the configuration"
+msgstr ""
+
+#: ovh-media-offload.php:237
+msgid "Plugin configuration is incomplete."
+msgstr ""
+
+#: ovh-media-offload.php:237
+msgid "Configure now"
+msgstr ""
