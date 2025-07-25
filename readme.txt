@@ -1,5 +1,5 @@
 === OVH Media Offload ===
-Contributors: sohaibboukraa
+Contributors: Sohaib Boukraa
 Donate link: https://paypal.me/sohaibboukraa
 Tags: ovh, object storage, s3, media, offload, cloud storage, cdn, performance
 Requires at least: 5.0
